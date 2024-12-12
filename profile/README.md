@@ -1,7 +1,8 @@
 # Pest Busters
 
-![Cover 3 1](https://github.com/user-attachments/assets/6d7cd4f0-3f6b-44de-8f56-18b3bc6988fd)
-Pest Busters adalah Aplikasi Mobile berbasis pembelajaran mesin untuk mendeteksi hama pada sayuran berdaun, yang dirancang khusus untuk mendukung pertanian hidroponik. Dengan memanfaatkan model pendeteksian objek mutakhir seperti YOLO dan TFOD, Pestbusters memberdayakan para petani dan penggemar untuk mempertahankan tanaman yang sehat dan memaksimalkan hasil panen.
+![Cover 4 1](https://github.com/user-attachments/assets/80c28bf9-3cef-4f15-849f-c2a9f82f99ca)
+
+Pest Busters is a machine learning-based Mobile App for detecting pests on leafy vegetables, specifically designed to support hydroponic farming. By leveraging cutting-edge object detection models such as YOLO and TFOD, Pestbusters empowers farmers and enthusiasts to maintain healthy plants and maximise yields.
 
 # Background
 
